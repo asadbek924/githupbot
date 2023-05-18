@@ -2,7 +2,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 from api import get_coffee
 logging.basicConfig(level=logging.INFO)
-API_TOKEN = '5889192380:AAHKWwmzVazPxGqmPal31X7loYYrMKZs7NE'
+API_TOKEN = 'token yozasan'
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
